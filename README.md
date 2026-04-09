@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Typing Header
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+K+Kannika;ML+Engineer;GenAI+Builder" alt="Typing SVG" /> -->
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+K+Kannika;ML+Engineer;GenAI+Builder" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=200&section=header&text=K Kannika%20&fontSize=72&fontColor=e8d5ff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20·%20Computer%20Vision%20·%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=9d7fea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=e8d5ff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=9d7fea" width="100%"/>
 
 
 </div>
@@ -41,8 +41,8 @@ kannika = {
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 <a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/MediaPipe-00BCD4?style=for-the-badge&logo=google&logoColor=white"/></a>
-<a href="https://ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/></a>
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<!-- <a href="https://ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a> -->
 
 ### 🤖 Generative AI
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></a>
