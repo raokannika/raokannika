@@ -32,11 +32,7 @@ kannika = {
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+### 🧠 AI & Machine Learning
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/></a>
@@ -47,6 +43,8 @@ kannika = {
 <a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/MediaPipe-00BCD4?style=for-the-badge&logo=google&logoColor=white"/></a>
 <a href="https://ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/></a>
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+
+### 🤖 Generative AI
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/></a>
 <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=4fc3f7"/></a>
 <a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-6E42C1?style=for-the-badge&logo=meta&logoColor=white"/></a>
@@ -54,30 +52,48 @@ kannika = {
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
 <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-D4A853?style=for-the-badge&logo=anthropic&logoColor=black"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+
+### 💻 Languages & Frameworks
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-<!-- <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a> -->
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+
+### 🛠 Tools & Infrastructure
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 
-</div>
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
-<br/>
-
 <div align="center">
 
-<img width="72%" src="https://streak-stats.demolab.com?user=sohan10012&theme=transparent&hide_border=true&background=0D0D0D&ring=9D7FEA&fire=9D7FEA&currStreakLabel=c4b5fd&sideLabels=8b7bb5&dates=555577&stroke=1a1a2e"/>
+<!-- General GitHub Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raokannika&show_icons=true&theme=transparent&title_color=c4b5fd&icon_color=9D7FEA&text_color=e8d5ff&bg_color=0D0D0D&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<!-- Top Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raokannika&layout=compact&theme=transparent&title_color=c4b5fd&text_color=e8d5ff&bg_color=0D0D0D&hide_border=true&hide=html,css,jupyter%20notebook"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img width="72%" src="https://streak-stats.demolab.com?user=raokannika&theme=transparent&hide_border=true&background=0D0D0D&ring=9D7FEA&fire=9D7FEA&currStreakLabel=c4b5fd&sideLabels=8b7bb5&dates=555577&stroke=1a1a2e"/>
+
+<br/>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=raokannika&label=Profile%20views&color=9d7fea&style=flat" alt="raokannika" />
 
 </div>
 
@@ -95,21 +111,21 @@ kannika = {
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://sohank.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://leetcode.com/u/k_kannika/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="38"/>
 </a>
-<!-- &nbsp;&nbsp;
-<a href="https://instagram.com/kannika07112">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
-</a> -->
 &nbsp;&nbsp;
 <a href="mailto:kkannikarao07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
 </a>
+
+<!-- Portfolio Link: Uncomment and add your URL when ready! -->
+<!-- 
+&nbsp;&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+</a> 
+-->
 
 </div>
 
@@ -122,7 +138,7 @@ kannika = {
 <table>
 <tr>
 <td width="90" align="center">
-<img src="https://github.com/sohan10012.png?size=200" width="72" style="border-radius:50%"/>
+<img src="https://github.com/raokannika.png?size=200" width="72" style="border-radius:50%"/>
 </td>
 <td align="left">
 <b>"It's all in the mind....."</b>
