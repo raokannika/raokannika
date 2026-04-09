@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+K+Kannika;ML+Engineer;GenAI+Builder" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=fe428e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+K+Kannika;ML+Engineer;GenAI+Builder" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=e8d5ff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=9d7fea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=fe428e&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=a9fef7" width="100%"/>
 
 
 </div>
@@ -86,20 +86,20 @@ kannika = {
 <div align="center">
 
 <!-- General GitHub Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raokannika&show_icons=true&theme=transparent&title_color=c4b5fd&icon_color=9D7FEA&text_color=e8d5ff&bg_color=0D0D0D&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raokannika&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <!-- Top Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raokannika&layout=compact&theme=transparent&title_color=c4b5fd&text_color=e8d5ff&bg_color=0D0D0D&hide_border=true&hide=html,css,jupyter%20notebook"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raokannika&layout=compact&theme=radical&hide_border=true&hide=html,css,jupyter%20notebook"/>
 
 <br/>
 
 <!-- Streak Stats -->
-<img width="72%" src="https://streak-stats.demolab.com?user=raokannika&theme=transparent&hide_border=true&background=0D0D0D&ring=9D7FEA&fire=9D7FEA&currStreakLabel=c4b5fd&sideLabels=8b7bb5&dates=555577&stroke=1a1a2e"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=raokannika&theme=radical&hide_border=true"/>
 
 <br/>
 
 <!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=raokannika&label=Profile%20views&color=9d7fea&style=flat" alt="raokannika" />
+<!-- <img src="https://komarev.com/ghpvc/?username=raokannika&label=Profile%20views&color=9d7fea&style=flat" alt="raokannika" /> -->
 
 </div>
 
@@ -154,6 +154,6 @@ kannika = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a3d,70:2d1060,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=100&section=footer" width="100%"/>
 
 </div>
