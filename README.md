@@ -164,5 +164,5 @@ kannika = {
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00c6ff&height=100&section=footer" width="100%"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00c6ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 </div>
