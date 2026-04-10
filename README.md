@@ -92,20 +92,17 @@ kannika = {
 <div align="center">
 
 <!-- General GitHub Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raokannika&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raokannika&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <!-- Top Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raokannika&layout=compact&theme=radical&hide_border=true&hide=html,css,jupyter%20notebook"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raokannika&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook"/>
 
 <br/>
 
 <!-- Streak Stats -->
-<img width="72%" src="https://streak-stats.demolab.com?user=raokannika&theme=radical&hide_border=true"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=raokannika&theme=github-dark&hide_border=true"/>
 
 <br/>
-
-<!-- Visitor Badge -->
-<!-- <img src="https://komarev.com/ghpvc/?username=raokannika&label=Profile%20views&color=9d7fea&style=flat" alt="raokannika" /> -->
 
 </div>
 
