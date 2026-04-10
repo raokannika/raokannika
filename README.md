@@ -5,8 +5,9 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=2c2c2c" width="100%"/> -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00c6ff&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=f1f5f9" width="100%"/> -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=d1d5db" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=b0b0b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=d1d5db" width="100%"/>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=K%20Kannika&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20GenAI%20Builder&descAlignY=62&descSize=16&descColor=b0b0b0" width="100%"/> -->
 
 
 </div>
