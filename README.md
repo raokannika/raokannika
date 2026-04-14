@@ -23,7 +23,7 @@
 ```python
 kannika = {
     "location"  : "Udupi, India 🇮🇳",
-    "education" : "B.E. Computer Science Engineering(Artificial Intelligence and Machine Learning)",
+    "education" : "B.E. CSE(Artificial Intelligence and Machine Learning)",
     "focus"     : ["ML / Deep Learning", "Computer Vision",
                    "Generative AI"],
     "learning"  : "LangGraph · Agentic Systems · MCP",
