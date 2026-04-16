@@ -129,12 +129,12 @@ kannika = {
 </a>
 
 <!-- Portfolio Link: Uncomment and add your URL when ready! -->
-<!-- 
+
 &nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://raokannika.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
 </a> 
--->
+
 
 </div>
 
