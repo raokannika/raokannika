@@ -117,22 +117,22 @@ kannika = {
 <div align="center">
 
 <a href="https://linkedin.com/in/k-kannika">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/k_kannika/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="38"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:kkannikarao07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
 </a>
 
 <!-- Portfolio Link: Uncomment and add your URL when ready! -->
 
 &nbsp;&nbsp;
 <a href="https://raokannika.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
 </a> 
 
 
